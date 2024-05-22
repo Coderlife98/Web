@@ -15,7 +15,7 @@ if (isset($_REQUEST)) {
 
     if (strlen($name) >= 3 && $email != "" && strlen($mobile) == 10) {
         
-        $to = "info@camwel.com";
+        $to = "info@camwel.org";
         $subject = "Demo Enquiry From Camwel.org ";
         $headers =  'MIME-Version: 1.0' . "\r\n";
         $headers .= 'From: Camwel.org' . "\r\n";

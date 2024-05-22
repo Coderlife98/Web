@@ -98,7 +98,7 @@
                     <div class="col-md-12">
                         <div class="form-group dued-mar">
                             <textarea
-                                oninput="this.value = this.value.replace(/[^A-Za-z0-9]/g, '').replace(/(\  *?)\  */g, '$1')"
+                            oninput="this.value = this.value.replace(/[^A-Za-z0-9 ]/g, '').replace(/ +/g, ' ')"
                                 maxlength="100" id="form_message" name="message" class="form-control dued-pp"
                                 placeholder="Message for me..." rows="3"
                                 data-error="Please, leave us a message."></textarea>

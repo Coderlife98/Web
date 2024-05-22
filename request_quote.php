@@ -78,7 +78,7 @@
                     </div>
                     <div class="contact-info-item wow fadeInUp delay-0-4s">
                         <i class="far fa-envelope"></i>
-                        <p><a href="mailto:info@camwel.com">info@camwel.com</a></p>
+                        <p><a href="mailto:info@camwel.org">info@camwel.org</a></p>
                     </div>
                     <div class="contact-info-item wow fadeInUp delay-0-6s">
                         <i class="fas fa-phone-alt"></i>
@@ -153,10 +153,6 @@
                                                 placeholder="Write Message" maxlength="150"></textarea>
                                         </div>
                                     </div>
-
-
-
-
                                     <div class="col-md-12 text-center">
                                         <p
                                             style="font-size: 20px; font-style:normal; font-weight:bolder; color:#104cba;">

@@ -9,7 +9,7 @@ if (isset($_POST['submit'])) {
     $message = trim($_POST['message']);
 
 
-        $to = "info@camwel.com";
+        $to = "info@camwel.org";
         $subject = "Demo Enquiry From Camwel.org ";
         $headers = 'MIME-Version: 1.0' . "\r\n";
         $headers .= 'From: Camwel.org' . "\r\n";

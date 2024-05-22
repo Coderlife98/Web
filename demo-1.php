@@ -135,7 +135,7 @@ $_SESSION["auto_sum"] = $answer;
                                             <i class="fas fa-envelope"></i>
                                             <div class="content">
                                                 <span>Write to Us</span>
-                                                <h5><a href="mailto:info@camwel.com">info@camwel.com</a></h5>
+                                                <h5><a href="mailto:info@camwel.org">info@camwel.org</a></h5>
                                             </div>
                                         </li>
                                         <li>
